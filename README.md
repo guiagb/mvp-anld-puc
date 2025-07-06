@@ -42,9 +42,3 @@ mvp-netflix/
 - Google Colab
 - Dataset do Kaggle
 
-## Sobre
-
-Este projeto foi desenvolvido por [Seu Nome Aqui] como parte da pós-graduação em Ciência de Dados.  
-Fique à vontade para comentar, dar sugestões ou usar como inspiração para outros projetos.
-
-Contato: seuemail@email.com
